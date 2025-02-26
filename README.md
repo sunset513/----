@@ -45,10 +45,6 @@
    ```bash
    pip install -r requirements.txt
    ```
-   安裝所需套件：
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 2. **下載圖片**  
 執行 `crawler.py`，爬取各個 URL 模板的圖片，圖片將依序存放於 `images` 資料夾下的各個子資料夾中。
